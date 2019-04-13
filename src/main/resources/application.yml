@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-security-guide
+
+server:
+  port: 8990
